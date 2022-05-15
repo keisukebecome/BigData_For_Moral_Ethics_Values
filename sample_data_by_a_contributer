@@ -1,0 +1,48 @@
+/// ファイルは責任者（＝著作者）ごとに複数に分けて管理します
+/// コントリビュート希望者は、新たなファイルをつくることもできます
+/// 
+/// ファイルの先頭には「ファイルごとの責任者」の著作権をＭＩＴライセンスで
+/// 記入してもらいます(コメントは///と３つの/です）。
+/// 
+/// ファイルの先頭の後ろには、日付ごとに、追加したデータ（道徳、倫理、事実、価値観）を
+/// 書いてもらいます。
+/// 
+/// 日付さけ記入されていれば、各責任者のファイルの中身のデータの段落の順番は、
+/// 責任者が思う自由な順番（例えば、分野ごと）に並べかえられていてもかまいません。
+
+
+
+///
+/// ◆EXAMPLE FILE CONTENT from here◆
+///
+/// copyright(c) 2022 <FIRSTNAME> <LASTNAME> <MAIL optional> released under MIT license
+///
+
+/// 2022.05.13
+parents should love children
+children are lives
+$A had better love $B :- $B should love $A ; $A are lives ;
+
+/// 2022.05.14
+human had better brush teeth
+human should sleep enough (at least 6-8 hours)
+
+/// 2022.05.15
+<%important event for some family of japan
+wedding of a member
+birthday of a member
+birthday of a pet
+wedding of a pet
+>%important event for some family of japan
+
+/// 2022.05.16
+<%important thing for some japanese
+to live own life
+to thank
+to love and to be loved
+to enjoy
+to raise people
+to work for some society
+to be thanked by other people
+to be respected by other people
+>%important thing for some japanese
